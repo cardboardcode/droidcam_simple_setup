@@ -1,5 +1,5 @@
 ## DroidCam-OpenCV Setup
-
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 ![](img/affliation.png)
 
 A simple user guide and python script for setting up your Android phone as a wireless IP camera with OpenCV.
