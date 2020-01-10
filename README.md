@@ -9,9 +9,9 @@ A simple user guide and python script for setting up your Android phone as a wir
 Python 3
 
 ## Phone Setup
-1. Go to the **Apps on Google Play** and download [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=en_SG) on your phone.
+1. **Download** [DroidCam](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=en_SG) on your phone.
 
-2. Once you are done, open the app and the server should start automatically with a specific IP address displayed like so:
+2. **Open** the app and the server should start automatically with a specific IP address displayed like so:
 
 ![](img/phone.png)
 
@@ -50,5 +50,5 @@ For the debian solution, you can find it at [paolorotolo](https://github.com/pao
 Suggestions from [DhruvK's stackoverflow post](https://stackoverflow.com/questions/36102437/streaming-droidcam-video-to-opencv-python-in-anyway-possible) helped as well.
 
 ## Tested On:
-Ubuntu Xenial 16.04.5
-Ubuntu Bionic 18.04.3
+1. Ubuntu Xenial 16.04.5
+2. Ubuntu Bionic 18.04.3
