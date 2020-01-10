@@ -50,3 +50,4 @@ Suggestions from [DhruvK's stackoverflow post](https://stackoverflow.com/questio
 
 ## Tested On:
 Ubuntu Xenial 16.04.5
+Ubuntu Bionic 18.04.3
