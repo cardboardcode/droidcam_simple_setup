@@ -2,8 +2,8 @@ import numpy as np
 import cv2
 
 http = 'http://'
-ip_address = '192.168.1.138'
-url =  http + ip_address + ':4747/mjpegfeed?640x480'
+ip_address = '192.168.2.27'
+url =  http + ip_address + ':4747/video'
 # Opening video stream of ip camera via its url
 cap = cv2.VideoCapture(url)
 
