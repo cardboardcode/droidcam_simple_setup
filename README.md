@@ -36,7 +36,7 @@ eg.
 
 5. Run the script. A brief walk-through of the code in given in its comments.
 
-`python droidcam.py`
+`python3 droidcam.py`
 
 ## Issues
 Has this setup guide helped you or frustrated you? If there are any issues, please post under the **Issues** tab. Any feedback is welcomed.
@@ -49,4 +49,4 @@ For the debian solution, you can find it at [paolorotolo](https://github.com/pao
 Suggestions from [DhruvK's stackoverflow post](https://stackoverflow.com/questions/36102437/streaming-droidcam-video-to-opencv-python-in-anyway-possible) helped as well.
 
 ## Tested On:
-Ubuntu Xenial 16.04.5
+Ubuntu Focal 20.04.3
